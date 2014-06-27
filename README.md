@@ -8,14 +8,17 @@ Setup
 
 Execute the command below:
 
-composer require "royopa/fpdf-symfony2": "dev-master"
+composer require "royopa/fpdf-symfony2"
+Please provide a version constraint for the royopa/fpdf-symfony2 requirement: 
+enter dev-master
 
 And those to `app/autoload.php`:
 
+
 ```php
 $classMap = array(
-    'Fpdf_' => __DIR__.'/../vendor/toooni/fpdf/lib/FPDF/FPDF.php',
-    'Fpdi_' => __DIR__.'/../vendor/toooni/fpdf/lib/FPDF/FPDI.php'
+    'Fpdf_' => __DIR__.'/../vendor/royopa/fpdf-symfony2/lib/FPDF/FPDF.php',
+    'Fpdi_' => __DIR__.'/../vendor/royopa/fpdf-symfony2/lib/FPDF/FPDI.php'
 );
 $loader->addClassMap($classMap);    
 ```

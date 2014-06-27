@@ -1,19 +1,19 @@
 {
-    "name": "toooni/fpdf",
+    "name": "royopa/fpdf-symfony2",
     "type": "library",
-    "description": "fpdf vendor for symfony2",
+    "description": "fpdf vendor for use with symfony2, based on toooni/fpdf",
     "keywords": [],
-    "homepage": "http://github.com/toooni",
+    "homepage": "http://github.com/royopa",
     "license": "BSD-3",
     "version": "1.0",
 	"authors": [
         {
-            "name": "Toni Rudolf",
-            "email": "toni.rudolf@gmail.com"
+            "name": "Rodrigo Prado de Jesus",
+            "email": "royopa@gmail.com"
         }
     ],
     "require": {
-        "php": ">=5.2.4"
+        "php": ">=5.3.3"
     },
     "autoload": {
         "psr-0" : {

@@ -1,14 +1,14 @@
 FPDF for use with Symfony2
 ==========================
 
-Uses FPDF 1.7
+Uses FPDF 1.7, tested in Symfony 2.5
 
 Setup
 -----
 
 Execute the command below:
 
-composer require "royopa/fpdf": "dev-master"
+composer require "royopa/fpdf-symfony2": "dev-master"
 
 And those to `app/autoload.php`:
 

@@ -9,7 +9,9 @@ Setup
 Execute the command below:
 
 composer require "royopa/fpdf-symfony2"
+
 Please provide a version constraint for the royopa/fpdf-symfony2 requirement: 
+
 enter dev-master
 
 And those to `app/autoload.php`:

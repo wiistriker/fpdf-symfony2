@@ -1,5 +1,5 @@
 {
-    "name": "wiistriker/tfpdf-symfony2",
+    "name": "wiistriker/fpdf-symfony2",
     "type": "library",
     "description": "fpdf vendor with tftpd for use with symfony2, based on royopa/fpdf",
     "keywords": [],

@@ -1,15 +1,15 @@
 {
-    "name": "royopa/fpdf-symfony2",
+    "name": "wiistriker/tfpdf-symfony2",
     "type": "library",
-    "description": "fpdf vendor for use with symfony2, based on toooni/fpdf",
+    "description": "fpdf vendor with tftpd for use with symfony2, based on royopa/fpdf",
     "keywords": [],
-    "homepage": "http://github.com/royopa",
+    "homepage": "http://github.com/wiistriker",
     "license": "BSD-3",
     "version": "1.0",
 	"authors": [
         {
-            "name": "Rodrigo Prado de Jesus",
-            "email": "royopa@gmail.com"
+            "name": "wiistriker",
+            "email": "wiistriker@gmail.com"
         }
     ],
     "require": {
